@@ -1,0 +1,28 @@
+section form{
+    background-color: #0b0381;
+    border: solid 3px;
+    width: fit-contents;
+    height: 400px;
+    padding: 5px;
+    margin: 30px 500px 100px 500px;
+    border-radius: 20px;
+
+}
+.login{
+    text-align: center;
+}
+.user{
+    text-align: center;
+    
+}
+.pas{
+    text-align: center;
+}
+h1{
+    color: #0b0381;
+    text-align: center;
+}
+.inside{
+    border-radius: 10px;
+
+}
